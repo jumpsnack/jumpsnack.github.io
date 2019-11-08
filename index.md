@@ -8,16 +8,18 @@ Blah.Blah.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Depth Estimation
+[[PDF](/pdf/sample_presentation.pdf)]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Domestic
+- Sangwon Kim, "Hello"
+- Sangwon Kim, "Hello2"
 
 ---
 
-### Publications
+## Research experience
 
 - Sangwon Kim, "Hello" [[PDF](http://cvpr.kmu.ac.kr)]
 - [Project 2 Title](http://example.com/)
