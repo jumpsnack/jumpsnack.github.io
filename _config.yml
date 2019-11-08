@@ -3,7 +3,7 @@ logo: "/images/my_thumb.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am currently a master student at Keimyung University. 
   <br><br>
-  [KMU CVPR Lab.](https://cvpr.kmu.ac.kr)
+  <a href="https://cvpr.kmu.ac.kr/">KMU CVPR Lab.</a> 
   <br><br>
   <a href="https://www.linkedin.com/in/sangwon-kim-539a00196/">View My LinkedIn Profile</a> 
   
