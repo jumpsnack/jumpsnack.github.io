@@ -15,7 +15,7 @@ __*MDPI Sensors 19(20), Oct. 2019*__ [[PDF](https://www.mdpi.com/1424-8220/19/20
 
 ---
 - __Developing of Modeling System and Depth Map Estimation using L-ENet__
-  * NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
+    NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
 - __Improving YOLOv3-ELASTIC Network for Detecting Various-Size Objects__
   * Dong-Hyun Son, Yoon-Cheol Park, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
 - __Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network__
