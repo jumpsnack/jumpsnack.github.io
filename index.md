@@ -20,7 +20,7 @@ Dong-Hyun Son, Yoon-Cheol Park, Sangwon Kim, Byoung Chul Ko, 제29회 신호처�
 - __Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network__
 Sangwon Kim, NaHun Kim, MinJi Park, Deokwoo Lee, Byoung Chul Ko, IPIU2019, Feb. 2019
 - __Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest__
-SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA (Oral\*)
+SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral\*)__
 
 `2018`
 - __Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network__
@@ -30,7 +30,7 @@ Sangwon Kim, NaHun Kim, Deokwoo Lee, Byoung Chul Ko, Oct. 2018 __(Best Poster Aw
 - __The development of a short-term memory training system for consecutive interpreting__
 Sangwon Kim, Donghyeok An, Jihye Pyo, KeeHyun Park, Jimin Lee, AJMAHS, DOI: 10.14257/AJMAHS.2017.12.15, Dec. 2017
 - __A design of automatic electric meter read system using drone__
-Sangwon Kim, Dongjin Lee, Dasom Ahn, Jihye Pyo, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017
+Sangwon Kim, Dongjin Lee, Dasom Ahn, Jihye Pyo, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017 __(Best Paper Award)__
 - __A Design of restroom monitoring and management system using Arduino__
 Sangwon Kim, Eunsol Kim, Hyejeong Choi, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017
 - __Development of a sight translation training system for simultaneous interpreting practice__
@@ -38,7 +38,7 @@ Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, AJMAHS, DOI: 10.14257/AJMAHS
 
 `2016`
 - __Development of a Sight translation training system for interpretation and translation__
-Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016 (Oral)
+Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016 __(Oral)__
 - __Development of a memory training system for improving short term memory__
 Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016
 
