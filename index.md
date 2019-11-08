@@ -6,8 +6,7 @@
 Sangwon Kim, Mira Jeong, Deokwoo Lee and Byoung Chul Ko
 
 CVPR2019 Workshop [[PDF](/sample_page)]
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dcrf.png?raw=true"/>
 
 ---
 ### Depth Estimation
