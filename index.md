@@ -4,7 +4,7 @@
 
 ### Projects
 
-Interpreting and simplifying Deep Forest[](/sample_page)
+[Interpreting and simplifying Deep Forest](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@ Interpreting and simplifying Deep Forest[](/sample_page)
 
 ### Publications
 
-- Sangwon Kim, "Hello"
+- Sangwon Kim, "Hello" [[PDF]](http://cvpr.kmu.ac.kr)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
