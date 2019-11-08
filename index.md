@@ -4,7 +4,7 @@
 
 ### Deep Coupling of Random Ferns
 Sangwon Kim, Mira Jeong, Deokwoo Lee and Byoung Chul Ko<br>
-*CVPR2019 Workshop* [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Kim_Deep_Coupling_of_Random_Ferns_CVPRW_2019_paper.html)]<br>
+- *CVPR2019 Workshop* [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Kim_Deep_Coupling_of_Random_Ferns_CVPRW_2019_paper.html)]<br>
 <img src="images/dcrf.png?raw=true"/>
 
 ---
