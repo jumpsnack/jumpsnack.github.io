@@ -47,27 +47,27 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 ## Research experience
 
 `Sep. 2018 - now`
-<br>&nbsp;&nbsp;&nbsp;&nbsp; __Master student__
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Keimyung University
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Daegu, Republic of Korea
+<br> __Master student__
+<br> Keimyung University
+<br> Daegu, Republic of Korea
 
 `Sep. 2017 - Apr. 2018`
-<br>&nbsp;&nbsp;&nbsp;&nbsp; __Research And Development Intern__
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Qualcomm Institute - UCSD Division of Calit2
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Web page construction with Angular and Typescript / Research in network protocol for IoT platform (MQTT, HTTP/2)
+<br> __Research And Development Intern__
+<br> Qualcomm Institute - UCSD Division of Calit2
+<br> Web page construction with Angular and Typescript / Research in network protocol for IoT platform (MQTT, HTTP/2)
 <br>&nbsp;&nbsp;&nbsp;&nbsp; San Diego, California
 
 `Jan. - Feb. 2017`
-<br>&nbsp;&nbsp;&nbsp;&nbsp; __Engineering Trainee__
-<br>&nbsp;&nbsp;&nbsp;&nbsp; EPITECH - European Institute of Technology
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Bluetooth touchless key / Embedded platform
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Paris, France
+<br> __Engineering Trainee__
+<br> EPITECH - European Institute of Technology
+<br> Bluetooth touchless key / Embedded platform
+<br> Paris, France
 
 `Jul. - Sep. 2016`
-<br>&nbsp;&nbsp;&nbsp;&nbsp; __Student Intern__
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Qualcomm Institute - UCSD Division of Calit2
-<br>&nbsp;&nbsp;&nbsp;&nbsp; Data communications between IoT platforms and smart devices / Air quality measurment / Android
-<br>&nbsp;&nbsp;&nbsp;&nbsp; San Diego, California
+<br> __Student Intern__
+<br> Qualcomm Institute - UCSD Division of Calit2
+<br> Data communications between IoT platforms and smart devices / Air quality measurment / Android
+<br> San Diego, California
 
 ---
 
