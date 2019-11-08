@@ -9,7 +9,7 @@ __*CVPR2019 Workshop*__ [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/h
 
 ---
 ### Fast Depth Estimation in a Single Image Using Lightweight Efficient Neural Network
-Sangwon Kim, jaeyal Nam, Byoung Chul Ko<br>
+Sangwon Kim, aeyal Nam, Byoung Chul Ko<br>
 __*MDPI Sensors 19(20), Oct. 2019*__ [[PDF](https://www.mdpi.com/1424-8220/19/20/4434)]<br>
 <img src="images/L-ENet.png?raw=true"/>
 
@@ -55,7 +55,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 <br> __Research And Development Intern__
 <br> Qualcomm Institute - UCSD Division of Calit2
 <br> Web page construction with Angular and Typescript / Research in network protocol for IoT platform (MQTT, HTTP/2)
-<br>&nbsp;&nbsp;&nbsp;&nbsp; San Diego, California
+<br> San Diego, California
 
 `Jan. - Feb. 2017`
 <br> __Engineering Trainee__
