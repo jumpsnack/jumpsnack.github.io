@@ -14,15 +14,15 @@ __*MDPI Sensors 19(20), Oct. 2019*__ [[PDF](https://www.mdpi.com/1424-8220/19/20
 <img src="images/L-ENet.png?raw=true"/>
 
 ---
-### Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest
+- Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest
 SangJun Kim, __Sangwon Kim__, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral)__
-### Developing of Modeling System and Depth Map Estimation using L-ENet
+- Developing of Modeling System and Depth Map Estimation using L-ENet
 NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
-### Improving YOLOv3-ELASTIC Network for Detecting Various-Size Objects
+- Improving YOLOv3-ELASTIC Network for Detecting Various-Size Objects
 Dong-Hyun Son, Yoon-Cheol Park, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
-### Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network
+- Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network
 Sangwon Kim, NaHun Kim, MinJi Park, Deokwoo Lee, Byoung Chul Ko, IPIU2019, Feb. 2019
-### Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network
+- Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network
 Sangwon Kim, NaHun Kim, Deokwoo Lee, Byoung Chul Ko, Oct. 2018__(Best Poster Award)__
 ### The development of a short-term memory training system for consecutive interpreting
 Sangwon Kim, Donghyeok An, Jihye Pyo, KeeHyun Park, Jimin Lee, AJMAHS, DOI: 10.14257/AJMAHS.2017.12.15, Dec. 2017
