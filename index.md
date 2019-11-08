@@ -20,11 +20,11 @@ Dong-Hyun Son, Yoon-Cheol Park, Sangwon Kim, Byoung Chul Ko, 제29회 신호처�
 - __Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network__
 Sangwon Kim, NaHun Kim, MinJi Park, Deokwoo Lee, Byoung Chul Ko, IPIU2019, Feb. 2019
 - __Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest__
-SangJun Kim, __Sangwon Kim__, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral)__
+SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA (Oral\*)
 
 `2018`
 - __Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network__
-Sangwon Kim, NaHun Kim, Deokwoo Lee, Byoung Chul Ko, Oct. 2018__(Best Poster Award)__
+Sangwon Kim, NaHun Kim, Deokwoo Lee, Byoung Chul Ko, Oct. 2018 __(Best Poster Award)__
 
 `2017`
 - __The development of a short-term memory training system for consecutive interpreting__
@@ -38,7 +38,7 @@ Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, AJMAHS, DOI: 10.14257/AJMAHS
 
 `2016`
 - __Development of a Sight translation training system for interpretation and translation__
-Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016
+Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016 (Oral)
 - __Development of a memory training system for improving short term memory__
 Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016
 
