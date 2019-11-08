@@ -14,7 +14,7 @@ __*MDPI Sensors 19(20), Oct. 2019*__ [[PDF](https://www.mdpi.com/1424-8220/19/20
 <img src="images/L-ENet.png?raw=true"/>
 
 ---
-'2019'
+`2019`
 - __Developing of Modeling System and Depth Map Estimation using L-ENet__
 NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
 - __Improving YOLOv3-ELASTIC Network for Detecting Various-Size Objects__
@@ -24,11 +24,11 @@ Sangwon Kim, NaHun Kim, MinJi Park, Deokwoo Lee, Byoung Chul Ko, IPIU2019, Feb. 
 - __Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest__
 SangJun Kim, __Sangwon Kim__, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral)__
 
-'2018'
+`2018`
 - __Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network__
 Sangwon Kim, NaHun Kim, Deokwoo Lee, Byoung Chul Ko, Oct. 2018__(Best Poster Award)__
 
-'2017'
+`2017`
 - __The development of a short-term memory training system for consecutive interpreting__
 Sangwon Kim, Donghyeok An, Jihye Pyo, KeeHyun Park, Jimin Lee, AJMAHS, DOI: 10.14257/AJMAHS.2017.12.15, Dec. 2017
 - __A design of automatic electric meter read system using drone__
