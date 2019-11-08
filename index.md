@@ -5,7 +5,7 @@
 ### Deep Coupling of Random Ferns
 Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko<br>
 __*CVPR2019 Workshop*__ [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Kim_Deep_Coupling_of_Random_Ferns_CVPRW_2019_paper.html)]<br>
-<img src="images/dcrf.png?raw=true" width="80%" height="80%"/>
+<img src="images/dcrf.png?raw=true" width="100%" height="100%"/>
 
 ---
 ### Fast Depth Estimation in a Single Image Using Lightweight Efficient Neural Network
