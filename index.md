@@ -47,21 +47,25 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 ## Research experience
 
  __Master student__
-<br>Keimyung University (`Sep. 2018 - now`)
+<br>`Sep. 2018 - now`
+<br>Keimyung University
 <br>Daegu, Republic of Korea
 
  __Research And Development Intern__
-<br>Qualcomm Institute - UCSD Division of Calit2 (`Sep. 2017 - Apr. 2018`)
+<br>`Sep. 2017 - Apr. 2018`
+<br>Qualcomm Institute - UCSD Division of Calit2
 <br>Web page construction with Angular and Typescript / Research in network protocol for IoT platform (MQTT, HTTP/2)
 <br>San Diego, California
 
  __Engineering Trainee__
-<br>EPITECH (`Jan. - Feb. 2017`)
+<br>`Jan. - Feb. 2017`
+<br>EPITECH
 <br>Bluetooth touchless key / Embedded platform
 <br>Paris, France
 
  __Student Intern__
-<br>Qualcomm Institute - UCSD Division of Calit2 (`Jul. - Sep. 2016`)
+<br>`Jul. - Sep. 2016`
+<br>Qualcomm Institute - UCSD Division of Calit2
 <br>Data communications between IoT platforms and smart devices / Air quality measurment / Android
 <br>San Diego, California
 
