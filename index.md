@@ -15,27 +15,27 @@ __*MDPI Sensors 19(20), Oct. 2019*__ [[PDF](https://www.mdpi.com/1424-8220/19/20
 
 ---
 - __Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest__
-<br>SangJun Kim, __Sangwon Kim__, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral)__
+* SangJun Kim, __Sangwon Kim__, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral)__
 - __Developing of Modeling System and Depth Map Estimation using L-ENet__
-, NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
-- Improving YOLOv3-ELASTIC Network for Detecting Various-Size Objects
-Dong-Hyun Son, Yoon-Cheol Park, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
-- Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network
-Sangwon Kim, NaHun Kim, MinJi Park, Deokwoo Lee, Byoung Chul Ko, IPIU2019, Feb. 2019
-- Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network
-Sangwon Kim, NaHun Kim, Deokwoo Lee, Byoung Chul Ko, Oct. 2018__(Best Poster Award)__
-### The development of a short-term memory training system for consecutive interpreting
-Sangwon Kim, Donghyeok An, Jihye Pyo, KeeHyun Park, Jimin Lee, AJMAHS, DOI: 10.14257/AJMAHS.2017.12.15, Dec. 2017
-### A design of automatic electric meter read system using drone
-Sangwon Kim, Dongjin Lee, Dasom Ahn, Jihye Pyo, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017
-### A Design of restroom monitoring and management system using Arduino
-Sangwon Kim, Eunsol Kim, Hyejeong Choi, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017
-### Development of a sight translation training system for simultaneous interpreting practice
-Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, AJMAHS, DOI: 10.14257/AJMAHS.2017.03.50, Mar. 2017
-### Development of a Sight translation training system for interpretation and translation
-Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016
-### Development of a memory training system for improving short term memory
-Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016
+* NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
+- __Improving YOLOv3-ELASTIC Network for Detecting Various-Size Objects__
+* Dong-Hyun Son, Yoon-Cheol Park, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
+- __Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network__
+* Sangwon Kim, NaHun Kim, MinJi Park, Deokwoo Lee, Byoung Chul Ko, IPIU2019, Feb. 2019
+- __Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network__
+* Sangwon Kim, NaHun Kim, Deokwoo Lee, Byoung Chul Ko, Oct. 2018__(Best Poster Award)__
+- __The development of a short-term memory training system for consecutive interpreting__
+* Sangwon Kim, Donghyeok An, Jihye Pyo, KeeHyun Park, Jimin Lee, AJMAHS, DOI: 10.14257/AJMAHS.2017.12.15, Dec. 2017
+- __A design of automatic electric meter read system using drone__
+* Sangwon Kim, Dongjin Lee, Dasom Ahn, Jihye Pyo, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017
+- __A Design of restroom monitoring and management system using Arduino__
+* Sangwon Kim, Eunsol Kim, Hyejeong Choi, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017
+- __Development of a sight translation training system for simultaneous interpreting practice__
+* Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, AJMAHS, DOI: 10.14257/AJMAHS.2017.03.50, Mar. 2017
+- __Development of a Sight translation training system for interpretation and translation__
+* Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016
+- __Development of a memory training system for improving short term memory__
+* Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016
 
 ---
 
