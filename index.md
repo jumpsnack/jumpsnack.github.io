@@ -2,8 +2,9 @@
 
 ---
 
-### Interpreting and simplifying Deep Forest
-Blah.Blah.
+### Deep Coupling of Random Ferns
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) workshop, Jun. 2019, Long Beach, CA
+Sangwon Kim, Mira Jeong, Deokwoo Lee and Byoung Chul Ko
 [[PDF](/sample_page)]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
