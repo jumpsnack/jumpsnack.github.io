@@ -53,7 +53,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
  __Research And Development Intern__
 <br>Qualcomm Institute - UCSD Division of Calit2 (`Sep. 2017 - Apr. 2018`)
 <br>Web page construction with Angular and Typescript / Research in network protocol for IoT platform (MQTT, HTTP/2)
-<br>San Diego, CA
+<br>San Diego, California
 
  __Engineering Trainee__
 <br>EPITECH (`Jan. - Feb. 2017`)
@@ -63,7 +63,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
  __Student Intern__
 <br>Qualcomm Institute - UCSD Division of Calit2 (`Jul. - Sep. 2016`)
 <br>Data communications between IoT platforms and smart devices / Air quality measurment / Android
-<br>San Diego, CA
+<br>San Diego, California
 
 ---
 
