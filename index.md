@@ -59,7 +59,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 
  __Engineering Trainee__
 <br>`Jan. - Feb. 2017`
-<br>EPITECH
+<br>EPITECH - European Institute of Technology
 <br>Bluetooth touchless key / Embedded platform
 <br>Paris, France
 
