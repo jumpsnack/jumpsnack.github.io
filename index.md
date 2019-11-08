@@ -1,5 +1,5 @@
 ## News
-- My Lab members presented papers at __ICCV2019 Workshop__, "Risky Pedestrian Prediction at Night Based on Likelihood Combination" and "High-Speed Pupil Tracking based on Deep Random Forests"
+- My Lab members presented their paper at __ICCV2019 Workshop__, "Risky Pedestrian Prediction at Night Based on Likelihood Combination" and "High-Speed Pupil Tracking based on Deep Random Forests"
 
 ---
 
