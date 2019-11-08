@@ -19,7 +19,7 @@
 
 ### Publications
 
-- Sangwon Kim, "Hello" [[PDF]](http://cvpr.kmu.ac.kr)
+- Sangwon Kim, "Hello" [[PDF](http://cvpr.kmu.ac.kr)]
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
