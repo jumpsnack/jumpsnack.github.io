@@ -15,7 +15,7 @@ __*MDPI Sensors 19(20), Oct. 2019*__ [[PDF](https://www.mdpi.com/1424-8220/19/20
 
 ---
 - __Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest__
-, SangJun Kim, __Sangwon Kim__, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral)__
+<br>SangJun Kim, __Sangwon Kim__, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral)__
 - __Developing of Modeling System and Depth Map Estimation using L-ENet__
 , NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
 - Improving YOLOv3-ELASTIC Network for Detecting Various-Size Objects
