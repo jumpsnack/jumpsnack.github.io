@@ -1,10 +1,10 @@
-## Portfolio
+## Publications
 
 ---
 
-### Projects
-
-[Interpreting and simplifying Deep Forest](/sample_page)
+### Interpreting and simplifying Deep Forest
+Blah.Blah.
+[[PDF](/sample_page)]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
