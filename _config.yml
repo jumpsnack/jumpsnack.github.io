@@ -2,8 +2,10 @@ title: Sangwon Kim # your name (or website title) here
 logo: "/images/my_thumb.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Computing Science Department
+  <br>
   Keimyung University
-  E-mail: eddiesangwonkim{at}stu{dot}kmu{dot}ac{dot}kr
+  <br>
+  E-mail: eddiesangwonkim@gmail.com
   <br><br>
   I am currently a master student at Keimyung University studying Computer Science. I am particularly passionate about machine learning, computer vision, and the autonomous driving system. On campus, I conduct computer vision research in <a href="https://cvpr.kmu.ac.kr/">KMU's CVPR Lab</a>. I am constantly seeking to learn, build, and think about interesting problems.
   <br><br>
