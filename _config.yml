@@ -11,7 +11,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   I am particularly passionate about machine learning, computer vision, and the autonomous driving system. On campus, I conduct computer vision research in <a href="https://cvpr.kmu.ac.kr/">KMU's CVPR Lab</a>. I am constantly seeking to learn, build, and think about interesting problems.
   <br><br>
-  <a href="https://www.linkedin.com/in/sangwon-kim-539a00196/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/sangwon-kim-539a00196/">View My LinkedIn Profile</a>
+  <br><br>
+  <a href="https://scholar.google.co.kr/citations?hl=ko&user=pUHZ-IcAAAAJ">View My GoogleScholar Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-151910993-1 # your Google Analytics tracking ID here
