@@ -35,6 +35,8 @@ Sangwon Kim, Dongjin Lee, Dasom Ahn, Jihye Pyo, Donghyeok An, Proceedings of the
 Sangwon Kim, Eunsol Kim, Hyejeong Choi, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017
 - __Development of a sight translation training system for simultaneous interpreting practice__
 Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, AJMAHS, DOI: 10.14257/AJMAHS.2017.03.50, Mar. 2017
+
+`2016`
 - __Development of a Sight translation training system for interpretation and translation__
 Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016
 - __Development of a memory training system for improving short term memory__
