@@ -54,7 +54,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 
 __`Sep. 2018 - now`__
 <br> __Master student__
-<br> Keimyung University
+<br> CVPR Lab - Keimyung University
 <br> Daegu, Republic of Korea
 * Monocular depth estimation
 * eXplainable AI on ensemble learning
@@ -68,7 +68,7 @@ __`Sep. 2017 - Apr. 2018`__
 * Research in network protocol for IoT platform (MQTT, HTTP/2)
 <br><br>
 
-`Jan. - Feb. 2017`
+__`Jan. - Feb. 2017`__
 <br> __Engineering Trainee__
 <br> EPITECH - European Institute of Technology
 <br> Paris, France
@@ -76,13 +76,20 @@ __`Sep. 2017 - Apr. 2018`__
 * Embedded platform programming
 <br><br>
 
-`Jul. - Sep. 2016`
+__`Jul. - Sep. 2016`__
 <br> __Student Intern__
 <br> Qualcomm Institute - UCSD Division of Calit2
 <br> San Diego, California
 * Air quality measurment
 * Data communications between IoT platforms and smart devices
 * Android programming
+<br><br>
+
+__`Jan. 2016 - Sep. 2017`__
+<br> __Research Assistant__
+<br> NCS Lab - Keimyung University
+<br> Daegu, Republic of Korea
+* Quick UDP Internet Connection
 <br><br>
 
 ---
