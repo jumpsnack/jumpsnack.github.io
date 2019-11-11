@@ -14,7 +14,7 @@ Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshop*__ [[
 
 ---
 ### Fast Depth Estimation in a Single Image Using Lightweight Efficient Neural Network
-Sangwon Kim, aeyal Nam, Byoung Chul Ko, __*MDPI Sensors 19(20), Oct. 2019*__ [[PDF](https://www.mdpi.com/1424-8220/19/20/4434)]<br>
+Sangwon Kim, Jaeyal Nam, Byoung Chul Ko, __*MDPI Sensors 19(20), Oct. 2019*__ [[PDF](https://www.mdpi.com/1424-8220/19/20/4434)]<br>
 <img src="images/L-ENet.png?raw=true"/>
 
 ---
