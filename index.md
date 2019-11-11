@@ -77,8 +77,8 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 <br> __Student Intern__
 <br> Qualcomm Institute - UCSD Division of Calit2
 <br> San Diego, California
-* Data communications between IoT platforms and smart devices
 * Air quality measurment
+* Data communications between IoT platforms and smart devices
 * Android programming
 
 ---
