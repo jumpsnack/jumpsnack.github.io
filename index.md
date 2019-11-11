@@ -58,6 +58,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 <br> Daegu, Republic of Korea
 * Monocular depth estimation
 * eXplainable AI on ensemble learning
+<br><br>
 
 `Sep. 2017 - Apr. 2018`
 <br> __Research And Development Intern__
@@ -65,6 +66,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 <br> San Diego, California
 * Web page construction with Angular and Typescript
 * Research in network protocol for IoT platform (MQTT, HTTP/2)
+<br><br>
 
 `Jan. - Feb. 2017`
 <br> __Engineering Trainee__
@@ -72,6 +74,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 <br> Paris, France
 * Bluetooth touchless key
 * Embedded platform programming
+<br><br>
 
 `Jul. - Sep. 2016`
 <br> __Student Intern__
@@ -80,6 +83,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 * Air quality measurment
 * Data communications between IoT platforms and smart devices
 * Android programming
+<br><br>
 
 ---
 
