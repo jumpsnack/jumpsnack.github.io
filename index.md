@@ -63,7 +63,8 @@ __`Sep. 2018 - now`__
 
 __`Sep. 2017 - Apr. 2018`__
 <br> __Research And Development Intern__
-<br> Qualcomm Institute - UCSD Division of Calit2
+<br> Qualcomm Institute
+<br> UCSD Division of Calit2
 <br> San Diego, California
 * Web page construction with Angular and Typescript
 * Research in network protocol for IoT platform (MQTT, HTTP/2)
@@ -79,7 +80,8 @@ __`Jan. - Feb. 2017`__
 
 __`Jul. - Sep. 2016`__
 <br> __Student Intern__
-<br> Qualcomm Institute - UCSD Division of Calit2
+<br> Qualcomm Institute
+<br> UCSD Division of Calit2
 <br> San Diego, California
 * Air quality measurment
 * Data communications between IoT platforms and smart devices
