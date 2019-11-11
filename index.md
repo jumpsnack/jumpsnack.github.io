@@ -55,24 +55,30 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 `Sep. 2018 - now`
 <br> __Master student__
 <br> Keimyung University
+* Monocular depth estimation
+* eXplainable AI on ensemble learning
 <br> Daegu, Republic of Korea
 
 `Sep. 2017 - Apr. 2018`
 <br> __Research And Development Intern__
 <br> Qualcomm Institute - UCSD Division of Calit2
-<br> Web page construction with Angular and Typescript / Research in network protocol for IoT platform (MQTT, HTTP/2)
+* Web page construction with Angular and Typescript
+* Research in network protocol for IoT platform (MQTT, HTTP/2)
 <br> San Diego, California
 
 `Jan. - Feb. 2017`
 <br> __Engineering Trainee__
 <br> EPITECH - European Institute of Technology
-<br> Bluetooth touchless key / Embedded platform
+* Bluetooth touchless key
+* Embedded platform programming
 <br> Paris, France
 
 `Jul. - Sep. 2016`
 <br> __Student Intern__
 <br> Qualcomm Institute - UCSD Division of Calit2
-<br> Data communications between IoT platforms and smart devices / Air quality measurment / Android
+* Data communications between IoT platforms and smart devices
+* Air quality measurment
+* Android programming
 <br> San Diego, California
 
 ---
