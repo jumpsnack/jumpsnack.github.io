@@ -52,7 +52,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 
 ## Research experience
 
-### `Sep. 2018 - now`
+__`Sep. 2018 - now`__
 <br> __Master student__
 <br> Keimyung University
 <br> Daegu, Republic of Korea
@@ -60,7 +60,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 * eXplainable AI on ensemble learning
 <br><br>
 
-### `Sep. 2017 - Apr. 2018`
+__`Sep. 2017 - Apr. 2018`__
 <br> __Research And Development Intern__
 <br> Qualcomm Institute - UCSD Division of Calit2
 <br> San Diego, California
