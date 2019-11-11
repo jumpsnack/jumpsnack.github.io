@@ -54,7 +54,8 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 
 __`Sep. 2018 - now`__
 <br> __Master student__
-<br> CVPR Lab - Keimyung University
+<br> CVPR Lab (Prof. Byung Chul Ko)
+<br> Keimyung University
 <br> Daegu, Republic of Korea
 * Monocular depth estimation
 * eXplainable AI on ensemble learning
@@ -87,7 +88,8 @@ __`Jul. - Sep. 2016`__
 
 __`Jan. 2016 - Sep. 2017`__
 <br> __Research Assistant__
-<br> NCS Lab - Keimyung University
+<br> NCS Lab (Prof. Donghyeok An / now at Changwon Univ.)
+<br> Keimyung University
 <br> Daegu, Republic of Korea
 * Quick UDP Internet Connection
 <br><br>
