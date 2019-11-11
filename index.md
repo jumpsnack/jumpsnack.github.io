@@ -54,7 +54,7 @@ Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과�
 
 __`Sep. 2018 - now`__
 <br> __Master student__
-<br> CVPR Lab (Prof. Byung Chul Ko)
+<br> CVPR Lab (Prof. Byoung Chul Ko)
 <br> Keimyung University
 <br> Daegu, Republic of Korea
 * Monocular depth estimation
