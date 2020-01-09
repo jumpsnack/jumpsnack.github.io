@@ -8,6 +8,11 @@
 
 ---
 
+### Building Deep Random Ferns Without Backpropagation
+Sangwon Kim,Byoung Chul Ko, __*IEEE ACCESS DOI: 10.1109/ACCESS.2020.2964842, Jan. 2020* (SCI/IF=4.098)__ [[PDF](https://cvpr.kmu.ac.kr)]<br>
+<img src="images/2020ieeeaccess.png?raw=true"/>
+
+---
 ### Deep Coupling of Random Ferns
 Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshop*__ [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Kim_Deep_Coupling_of_Random_Ferns_CVPRW_2019_paper.html)]<br>
 <img src="images/dcrf.png?raw=true" width="100%" height="100%"/>
