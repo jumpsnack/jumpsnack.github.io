@@ -1,5 +1,5 @@
 ## News
-- We published a paper at __IEEE ACCESS__, "Building Deep Random Ferns Without Backpropagation"
+- We published an article at __IEEE ACCESS__, "Building Deep Random Ferns Without Backpropagation"
 - We presented papers at __ICCV2019 Workshop__, "Risky Pedestrian Prediction at Night Based on Likelihood Combination" and "High-Speed Pupil Tracking based on Deep Random Forests"
 
 <br><br>
