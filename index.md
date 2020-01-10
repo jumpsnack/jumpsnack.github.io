@@ -10,7 +10,7 @@
 ---
 
 ### Building Deep Random Ferns Without Backpropagation
-Sangwon Kim,Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.2964842, Jan. 2020* (SCI/IF=4.098)__ [[PDF](https://cvpr.kmu.ac.kr)]<br>
+Sangwon Kim,Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.2964842, Jan. 2020* (SCI/IF=4.098)__ [[IEEE xplore](https://ieeexplore.ieee.org/document/8952691)]<br>
 <img src="images/2020ieeeaccess.png?raw=true"/>
 
 ---
