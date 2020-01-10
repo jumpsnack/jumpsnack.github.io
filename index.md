@@ -1,6 +1,5 @@
 ## News
 - We published an article at __IEEE ACCESS__, "Building Deep Random Ferns Without Backpropagation"
-- We presented papers at __ICCV2019 Workshop__, "Risky Pedestrian Prediction at Night Based on Likelihood Combination" and "High-Speed Pupil Tracking based on Deep Random Forests"
 
 <br><br>
 
@@ -10,7 +9,7 @@
 ---
 
 ### Building Deep Random Ferns Without Backpropagation
-Sangwon Kim,Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.2964842, Jan. 2020* (SCI/IF=4.098)__ [[IEEE xplore](https://ieeexplore.ieee.org/document/8952691)]<br>
+Sangwon Kim,Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.2964842, Jan. 2020* (SCIE/IF=4.098)__ [[IEEE xplore](https://ieeexplore.ieee.org/document/8952691)]<br>
 <img src="images/2020ieeeaccess.png?raw=true"/>
 
 ---
@@ -20,7 +19,7 @@ Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshop*__ [[
 
 ---
 ### Fast Depth Estimation in a Single Image Using Lightweight Efficient Neural Network
-Sangwon Kim, Jaeyal Nam, Byoung Chul Ko, __*MDPI Sensors 19(20), Oct. 2019* (SCI/IF=3.031)__ [[PDF](https://www.mdpi.com/1424-8220/19/20/4434)]<br>
+Sangwon Kim, Jaeyal Nam, Byoung Chul Ko, __*MDPI Sensors 19(20), Oct. 2019* (SCIE/IF=3.031)__ [[PDF](https://www.mdpi.com/1424-8220/19/20/4434)]<br>
 <img src="images/L-ENet.png?raw=true"/>
 
 ---
