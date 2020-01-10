@@ -4,7 +4,7 @@
 <br><br>
 
 
-## Publications
+## Journals
 
 ---
 
@@ -13,16 +13,27 @@ Sangwon Kim,Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.2964842, Ja
 <img src="images/2020ieeeaccess.png?raw=true"/>
 
 ---
-### Deep Coupling of Random Ferns
-Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshop*__ [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Kim_Deep_Coupling_of_Random_Ferns_CVPRW_2019_paper.html)]<br>
-<img src="images/dcrf.png?raw=true" width="100%" height="100%"/>
-
----
 ### Fast Depth Estimation in a Single Image Using Lightweight Efficient Neural Network
 Sangwon Kim, Jaeyal Nam, Byoung Chul Ko, __*MDPI Sensors 19(20), Oct. 2019* (SCIE/IF=3.031)__ [[PDF](https://www.mdpi.com/1424-8220/19/20/4434)]<br>
 <img src="images/L-ENet.png?raw=true"/>
 
 ---
+
+
+## Confernces
+`2019`
+### Deep Coupling of Random Ferns
+Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshop*__ [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Kim_Deep_Coupling_of_Random_Ferns_CVPRW_2019_paper.html)]<br>
+<img src="images/dcrf.png?raw=true" width="100%" height="100%"/>
+
+---
+
+- __Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest__
+SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral\*)__
+
+---
+
+## Domestic Pubs.
 `2019`
 - __Developing of Modeling System and Depth Map Estimation using L-ENet__
 NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
@@ -30,8 +41,6 @@ NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회,
 Dong-Hyun Son, Yoon-Cheol Park, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
 - __Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network__
 Sangwon Kim, NaHun Kim, MinJi Park, Deokwoo Lee, Byoung Chul Ko, IPIU2019, Feb. 2019
-- __Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest__
-SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral\*)__
 
 `2018`
 - __Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network__
