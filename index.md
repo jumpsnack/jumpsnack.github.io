@@ -9,7 +9,7 @@
 ---
 
 ### Building Deep Random Ferns Without Backpropagation
-Sangwon Kim,Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.2964842, Jan. 2020* (SCIE/IF=4.098)__ [[IEEE xplore](https://ieeexplore.ieee.org/document/8952691)]<br>
+Sangwon Kim, Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.2964842, Jan. 2020* (SCIE/IF=4.098)__ [[IEEE xplore](https://ieeexplore.ieee.org/document/8952691)]<br>
 <img src="images/2020ieeeaccess.png?raw=true"/>
 
 ---
@@ -32,6 +32,10 @@ SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imag
 ---
 
 ## Domestic Publications
+`2020`
+- __Simplification of Random Forests for real-time pupil tracking__
+Sangwon Kim, Mira Jeong, Byoung Chul Ko, IPIU2020, Feb. 2020
+
 `2019`
 - __Developing of Modeling System and Depth Map Estimation using L-ENet__
 NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
