@@ -4,7 +4,7 @@
 <br><br>
 
 
-## International Pubs.
+## International Publications
 
 ---
 
@@ -31,7 +31,7 @@ SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imag
 
 ---
 
-## Domestic Pubs.
+## Domestic Publications
 `2019`
 - __Developing of Modeling System and Depth Map Estimation using L-ENet__
 NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
