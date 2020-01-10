@@ -1,13 +1,12 @@
 title: Sangwon Kim # your name (or website title) here
 logo: "/images/my_thumb.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <a href="/cv_jumpsnack.github.io">CV</a> / <a href="https://www.linkedin.com/in/sangwon-kim-539a00196/">LinkedIn</a> / <a href="https://scholar.google.com/citations?hl=en&user=pUHZ-IcAAAAJ">GoogleScholar</a>
   E-mail: eddiesangwonkim@gmail.com
   <br><br>
   I am currently a master student at Keimyung University studying Computer Engineering.
   <br>
   I am particularly passionate about eXplainable AI. On campus, I conduct computer vision research in <a href="https://cvpr.kmu.ac.kr/">KMU's CVPR Lab</a>. I am constantly seeking to learn, build, and think about interesting problems.
-  <br><br>
-  <a href="/cv_jumpsnack.github.io">CV</a> / <a href="https://www.linkedin.com/in/sangwon-kim-539a00196/">LinkedIn</a> / <a href="https://scholar.google.com/citations?hl=en&user=pUHZ-IcAAAAJ">GoogleScholar</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-151910993-1 # your Google Analytics tracking ID here
