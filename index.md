@@ -33,7 +33,7 @@ SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imag
 
 ## Domestic Publications
 `2020`
-- __Simplification of Random Forests for real-time pupil tracking__
+- __Simplification of Random Forests for Real-time Pupil Tracking__
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, IPIU2020, Feb. 2020
 
 `2019`
