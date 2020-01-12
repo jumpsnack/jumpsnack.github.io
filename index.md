@@ -8,68 +8,68 @@
 
 ---
 
-### Building Deep Random Ferns Without Backpropagation
+### [J4] Building Deep Random Ferns Without Backpropagation
 Sangwon Kim, Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.2964842, Jan. 2020* (SCIE/IF=4.098)__ [[IEEE xplore](https://ieeexplore.ieee.org/document/8952691)]<br>
 <img src="images/2020ieeeaccess.png?raw=true"/>
 
 ---
 
-### Fast Depth Estimation in a Single Image Using Lightweight Efficient Neural Network
+### [J3] Fast Depth Estimation in a Single Image Using Lightweight Efficient Neural Network
 Sangwon Kim, Jaeyal Nam, Byoung Chul Ko, __*MDPI Sensors 19(20), Oct. 2019* (SCIE/IF=3.031)__ [[PDF](https://www.mdpi.com/1424-8220/19/20/4434)]<br>
 <img src="images/L-ENet.png?raw=true"/>
 
 ---
 
-### Deep Coupling of Random Ferns
+###[C8] Deep Coupling of Random Ferns
 Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshop*__, Jun. 2019, Long Beach, CA [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Kim_Deep_Coupling_of_Random_Ferns_CVPRW_2019_paper.html)]<br>
 <img src="images/dcrf.png?raw=true" width="100%" height="100%"/>
 
 ---
 
-### Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest
+### [C6] Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest
 SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral\*)__
 
 ---
 
 ## Domestic Publications
 `2020`
-- __Simplification of Random Forests for Real-time Pupil Tracking__
+- [C11] __Simplification of Random Forests for Real-time Pupil Tracking__
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, IPIU2020, Feb. 2020
 
 `2019`
-- __Developing of Modeling System and Depth Map Estimation using L-ENet__
+- [C10] __Developing of Modeling System and Depth Map Estimation using L-ENet__
 NaHun Kim, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
-- __Improving YOLOv3-ELASTIC Network for Detecting Various-Size Objects__
+- [C9] __Improving YOLOv3-ELASTIC Network for Detecting Various-Size Objects__
 Dong-Hyun Son, Yoon-Cheol Park, Sangwon Kim, Byoung Chul Ko, 제29회 신호처리합동학술대회, Sep. 2019
-- __Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network__
+- [C7] __Single Image Based Real-time Depth-map Estimation Using Light-weight Deep Convolutional Neural Network__
 Sangwon Kim, NaHun Kim, MinJi Park, Deokwoo Lee, Byoung Chul Ko, IPIU2019, Feb. 2019
 
 `2018`
-- __Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network__
+- [C5] __Development of Depth Map Prediction and Modeling System Using Single Image and Deep Neural Network__
 Sangwon Kim, NaHun Kim, Deokwoo Lee, Byoung Chul Ko, Oct. 2018 __(Best Poster Award)__
 
 `2017`
-- __The development of a short-term memory training system for consecutive interpreting__
+- [J2] __The development of a short-term memory training system for consecutive interpreting__
 Sangwon Kim, Donghyeok An, Jihye Pyo, KeeHyun Park, Jimin Lee, AJMAHS, DOI: 10.14257/AJMAHS.2017.12.15, Dec. 2017
-- __A design of automatic electric meter read system using drone__
+- [C4] __A design of automatic electric meter read system using drone__
 Sangwon Kim, Dongjin Lee, Dasom Ahn, Jihye Pyo, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017 __(Best Paper Award)__
-- __A Design of restroom monitoring and management system using Arduino__
+- [C3] __A Design of restroom monitoring and management system using Arduino__
 Sangwon Kim, Eunsol Kim, Hyejeong Choi, Donghyeok An, Proceedings of the Korea Information Processing Society Conference, Apr. 2017
-- __Development of a sight translation training system for simultaneous interpreting practice__
+- [J1] __Development of a sight translation training system for simultaneous interpreting practice__
 Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, AJMAHS, DOI: 10.14257/AJMAHS.2017.03.50, Mar. 2017
 
 `2016`
-- __Development of a Sight translation training system for interpretation and translation__
+- [C2] __Development of a Sight translation training system for interpretation and translation__
 Sangwon Kim, Jimin Lee, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016 __(Oral)__
-- __Development of a memory training system for improving short term memory__
+- [C1] __Development of a memory training system for improving short term memory__
 Sangwon Kim, Jimin Lee, Jihye Pyo, KeeHyun Park, Donghyeok An, 인문사회과학기술융합학회, Oct. 2016
 
 ---
 
 ## Research experience
 
-__`Sep. 2018 - now`__
-<br> __Master student__
+__`Sep. 2018 - Present`__
+<br> __Master Course__
 <br> CVPR Lab (Prof. Byoung Chul Ko)
 <br> Keimyung University
 <br> Daegu, Republic of Korea
@@ -86,7 +86,7 @@ __`Sep. 2017 - Apr. 2018`__
 * Research in network protocol for IoT platform (MQTT, HTTP/2)
 <br><br>
 
-__`Jan. - Feb. 2017`__
+__`Jan. 2017 - Feb. 2017`__
 <br> __Engineering Trainee__
 <br> EPITECH - European Institute of Technology
 <br> Paris, France
@@ -94,7 +94,7 @@ __`Jan. - Feb. 2017`__
 * Embedded platform programming
 <br><br>
 
-__`Jul. - Sep. 2016`__
+__`Jul. 2016 - Sep. 2016`__
 <br> __Student Intern__
 <br> Qualcomm Institute
 <br> UCSD Division of Calit2
