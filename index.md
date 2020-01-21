@@ -75,6 +75,7 @@ __`Sep. 2018 - Present`__
 <br> Daegu, Republic of Korea
 * Monocular depth estimation
 * eXplainable AI on ensemble learning
+* Network architectural research
 <br><br>
 
 __`Sep. 2017 - Apr. 2018`__
@@ -90,7 +91,7 @@ __`Jan. 2017 - Feb. 2017`__
 <br> __Engineering Trainee__
 <br> EPITECH - European Institute of Technology
 <br> Paris, France
-* Bluetooth touchless key
+* Bluetooth Application
 * Embedded platform programming
 <br><br>
 
