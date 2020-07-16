@@ -10,7 +10,7 @@
 
 ### [C9] Fast Multiple Object Tracking Using Siamese Random Forest Without Online Tracker Updating
 Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*CVPR2020 Workshop*__, Jun. 2020, Virtual [[PDF](https://motchallenge.net/workshops/bmtt2020/papers/SRF.pdf)]<br>
-<img src="images/srf.png?raw=true" width="100%" height="100%"/>
+<img src="images/srf.PNG?raw=true" width="100%" height="100%"/>
 
 ---
 
