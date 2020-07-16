@@ -1,10 +1,16 @@
 ## News
-- We published an article at __IEEE ACCESS__, "Building Deep Random Ferns Without Backpropagation"
+- Our paper has been accepted to __CVPR2020 Workshops__, "Fast Multiple Object Tracking Using Siamese Random Forest Without Online Tracker Updating"
 
 <br><br>
 
 
 ## International Publications
+
+---
+
+### [C9] Fast Multiple Object Tracking Using Siamese Random Forest Without Online Tracker Updating
+Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*CVPR2020 Workshop*__, Jun. 2020, Virtual [[PDF](https://motchallenge.net/workshops/bmtt2020/papers/SRF.pdf)]<br>
+<img src="images/srf.png?raw=true" width="100%" height="100%"/>
 
 ---
 
