@@ -9,7 +9,7 @@
 ---
 
 ### [C12] Fast Multiple Object Tracking Using Siamese Random Forest Without Online Tracker Updating
-Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*CVPR2020 Workshop*__, Jun. 2020, Virtual [[PDF](https://motchallenge.net/workshops/bmtt2020/papers/SRF.pdf)]<br>
+Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*CVPR2020 Workshops*__, Jun. 2020, Virtual [[PDF](https://motchallenge.net/workshops/bmtt2020/papers/SRF.pdf)]<br>
 <img src="images/srf.PNG?raw=true" width="100%" height="100%"/>
 
 ---
@@ -27,7 +27,7 @@ Sangwon Kim, Jaeyal Nam, Byoung Chul Ko, __*MDPI Sensors 19(20), Oct. 2019* (SCI
 ---
 
 ### [C8] Deep Coupling of Random Ferns
-Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshop*__, Jun. 2019, Long Beach, CA [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Kim_Deep_Coupling_of_Random_Ferns_CVPRW_2019_paper.html)]<br>
+Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshops*__, Jun. 2019, Long Beach, CA [[CVF](http://openaccess.thecvf.com/content_CVPRW_2019/html/Explainable_AI/Kim_Deep_Coupling_of_Random_Ferns_CVPRW_2019_paper.html)]<br>
 <img src="images/dcrf.png?raw=true" width="100%" height="100%"/>
 
 ---
