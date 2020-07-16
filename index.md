@@ -33,7 +33,7 @@ Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshops*__, 
 ---
 
 ### [C6] Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest
-SangJun Kim, Sangwon Kim\*, Deokwoo Lee and Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral\*)__
+SangJun Kim, Sangwon Kim\*, Deokwoo Lee, Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral\*)__
 
 ---
 
