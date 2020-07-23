@@ -39,6 +39,10 @@ SangJun Kim, Sangwon Kim\*, Deokwoo Lee, Byoung Chul Ko, SPIE Electronic Imaging
 
 ## Domestic Publications
 `2020`
+- [C14] __Title__
+Jimi Lee, Sangwon Kim, Byoung Chul Ko, Summer Annual Conference of IEIE, Aug. 2020 __(Best Poster Award)__
+- [C13] __Title__
+Mira Jeong, Sangwon Kim, Byoung Chul Ko, KCC2020, Jul. 2020 __(Best Poster Award)__
 - [C11] __Simplification of Random Forests for Real-time Pupil Tracking__
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, IPIU2020, Feb. 2020
 
