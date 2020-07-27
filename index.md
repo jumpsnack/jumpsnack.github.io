@@ -39,10 +39,12 @@ SangJun Kim, Sangwon Kim\*, Deokwoo Lee, Byoung Chul Ko, SPIE Electronic Imaging
 
 ## Domestic Publications
 `2020`
-- [C14] __Title__
+- [C15] __Title__
 Jimi Lee, Sangwon Kim, Byoung Chul Ko, Summer Annual Conference of IEIE, Aug. 2020 (Oral) __(Best Paper Award)__
-- [C13] __Lightweight Surrogate Random Forest Based on Cross-Entropy Shapley__
+- [C14] __Lightweight Surrogate Random Forest Based on Cross-Entropy Shapley__
 Mira Jeong, Sangwon Kim, Byoung Chul Ko, KCC2020, Jul. 2020 (Oral) __(Best Paper Award)__
+- [C13] __Time series Multilayered Random Forest Without Backpropagation and Application of Forest Fire Early Detection__
+Sangwon Kim, Sanchez Gustavo, Byoung Chul Ko, The Korea Institude of Broadcast and Media Engineers Summer Conference, Jun. 2020
 - [C11] __Simplification of Random Forests for Real-time Pupil Tracking__
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, IPIU2020, Feb. 2020
 
