@@ -11,6 +11,7 @@
 ### [J5] Energy Efficient Pupil Tracking Based on Rule Distillation of Cascade Regression Forest
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*MDPI Sensors 20(18), Sep. 2020* (SCIE/IF=3.275)__ [[PDF](https://www.mdpi.com/1424-8220/20/18/5141/pdf)]<br>
 <img src="images/EEFCSCDRF.png?raw=true"/>
+
 ---
 
 ### [C12] Fast Multiple Object Tracking Using Siamese Random Forest Without Online Tracker Updating
