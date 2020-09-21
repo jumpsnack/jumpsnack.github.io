@@ -45,7 +45,7 @@ SangJun Kim, Sangwon Kim\*, Deokwoo Lee, Byoung Chul Ko, SPIE Electronic Imaging
 
 ## Domestic Publications
 `2020`
-- [C15] __Title__
+- [C15] __Lightweight Siamese Random Forest Using Rule Distillation and Online Multiple Object Tracking Application__
 Jimi Lee, Sangwon Kim, Byoung Chul Ko, Summer Annual Conference of IEIE, Aug. 2020 (Oral) __(Best Paper Award)__
 - [C14] __Lightweight Surrogate Random Forest Based on Cross-Entropy Shapley__
 Mira Jeong, Sangwon Kim, Byoung Chul Ko, KCC2020, Jul. 2020 (Oral) __(Best Paper Award)__
