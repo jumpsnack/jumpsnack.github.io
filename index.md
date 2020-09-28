@@ -9,7 +9,7 @@
 ---
 
 ### [C17] Pedestrian Detection Using Adaptive Switcher of Day and Night Model in Autonomous Vehicle
-Duyoung Heo, Sangwon Kim, Byoung Chul Ko, David M. Bevly __*ICCE-Asia, under review*__ <br>
+Duyoung Heo, Sangwon Kim, Byoung Chul Ko, David M. Bevly, __*ICCE-Asia, under review*__ <br>
 
 ---
 
