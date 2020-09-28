@@ -8,6 +8,11 @@
 ## International Publications
 ---
 
+### [J6] Online Multiple Object Tracking Using Rule Distillated Siamese Random Forest
+Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*IEEE Access, in revision* (SCIE/IF=3.745)__ <br>
+
+---
+
 ### [J5] Energy Efficient Pupil Tracking Based on Rule Distillation of Cascade Regression Forest
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*MDPI Sensors 20(18), Sep. 2020* (SCIE/IF=3.275)__ [[PDF](https://www.mdpi.com/1424-8220/20/18/5141/pdf)]<br>
 <img src="images/EEFCSCDRF.png?raw=true"/>
@@ -45,6 +50,8 @@ SangJun Kim, Sangwon Kim\*, Deokwoo Lee, Byoung Chul Ko, SPIE Electronic Imaging
 
 ## Domestic Publications
 `2020`
+- [C16] __Proposal of an Unsupervised learning method for Deep learning-based image registration__
+Sangwon Kim, Byoung Chul Ko, 제30회 신호처리합동학술대회, Sep. 2020
 - [C15] __Lightweight Siamese Random Forest Using Rule Distillation and Online Multiple Object Tracking Application__
 Jimi Lee, Sangwon Kim, Byoung Chul Ko, Summer Annual Conference of IEIE, Aug. 2020 (Oral) __(Best Paper Award)__
 - [C14] __Lightweight Surrogate Random Forest Based on Cross-Entropy Shapley__
