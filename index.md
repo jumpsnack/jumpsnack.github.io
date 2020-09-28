@@ -8,6 +8,11 @@
 ## International Publications
 ---
 
+### [C17] Pedestrian Detection Using Adaptive Switcher of Day and Night Model in Autonomous Vehicle
+Duyoung Heo, Sangwon Kim, Byoung Chul Ko, David M. Bevly __*ICCE-Asia, under review*__ <br>
+
+---
+
 ### [J6] Online Multiple Object Tracking Using Rule Distillated Siamese Random Forest
 Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*IEEE ACCESS, under review* (SCIE/IF=3.745)__ <br>
 
