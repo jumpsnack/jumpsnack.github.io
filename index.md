@@ -9,7 +9,7 @@
 ---
 
 ### [J6] Online Multiple Object Tracking Using Rule Distillated Siamese Random Forest
-Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*IEEE Access, under review* (SCIE/IF=3.745)__ <br>
+Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*IEEE ACCESS, under review* (SCIE/IF=3.745)__ <br>
 
 ---
 
