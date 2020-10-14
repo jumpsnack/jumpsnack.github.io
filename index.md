@@ -15,7 +15,8 @@ Duyoung Heo, Sangwon Kim, Byoung Chul Ko, David M. Bevly, ICCE-Asia, Nov. 2020, 
 ---
 
 ### [J6] Online Multiple Object Tracking Using Rule Distillated Siamese Random Forest
-Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.3028770, Oct. 2020* (SCIE/IF=3.745)__ [[IEEE xplore](https://ieeexplore.ieee.org/document/8952691)]<br>
+Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*IEEE ACCESS, DOI: 10.1109/ACCESS.2020.3028770, Oct. 2020* (SCIE/IF=3.745)__ [[IEEE xplore](https://ieeexplore.ieee.org/document/9214525)]<br>
+<img src="images/access-ped.png?raw=true"/>
 
 ---
 
