@@ -15,7 +15,7 @@ Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*NIPS2020 Workshops, under review*__<
 ---
 
 ### [J7] Understanding of Deep Forest Based on Simplified Representation of Multi-Layer Random Forest
-Sangwon Kim, Byoung Chul Ko, __*ELSEVIER AI Journal, under review* (SCIE/IF=6.628)__<br>
+Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*ELSEVIER AI Journal, under review* (SCIE/IF=6.628)__<br>
 
 ---
 
