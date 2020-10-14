@@ -1,4 +1,5 @@
 ## News
+- Our paper has been published to __IEEE Access__, "Online Multiple Object Tracking Using Rule Distillated Siamese Random Forest"
 - Our paper has been published to __MDPI Sensors__, "Energy Efficient Pupil Tracking Based on Rule Distillation of Cascade Regression Forest"
 - Our paper has been accepted to __CVPR2020 Workshops__, "Fast Multiple Object Tracking Using Siamese Random Forest Without Online Tracker Updating"
 
