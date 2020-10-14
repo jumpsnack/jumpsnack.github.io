@@ -9,6 +9,16 @@
 ## International Publications
 ---
 
+### [C18] Is the Surrogate Model Interpretable?
+Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*NIPS2020 Workshops, under review*__<br>
+
+---
+
+### [J7] Understanding of Deep Forest Based on Simplified Representation of Multi-Layer Random Forest
+Sangwon Kim, Byoung Chul Ko, __*ELSEVIER AI Journal, under review* (SCIE/IF=6.628)__<br>
+
+---
+
 ### [C17] Pedestrian Detection Using Adaptive Switcher of Day and Night Model in Autonomous Vehicle
 Duyoung Heo, Sangwon Kim, Byoung Chul Ko, David M. Bevly, ICCE-Asia, Nov. 2020, Busan, S. Korea <br>
 <img src="images/icce-asia2020.png?raw=true"/>
