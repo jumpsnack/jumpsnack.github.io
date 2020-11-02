@@ -11,7 +11,7 @@
 ---
 
 ### [C18] Is the Surrogate Model Interpretable?
-Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*NIPS2020 Workshops*__, Dec. 2020, Virtual<br>
+Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*NIPS2020 Workshops*__, Dec. 2020, Vancouver (Virtual), Canada<br>
 <img src="images/nipsw2020.png?raw=true"/>
 
 ---
@@ -35,7 +35,7 @@ Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*MDPI Sensors 20(18), Sep. 2020* (SCI
 ---
 
 ### [C12] Fast Multiple Object Tracking Using Siamese Random Forest Without Online Tracker Updating
-Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*CVPR2020 Workshops*__, Jun. 2020, Virtual [[PDF](https://motchallenge.net/workshops/bmtt2020/papers/SRF.pdf)]<br>
+Jimi Lee, Sangwon Kim, Byoung Chul Ko, __*CVPR2020 Workshops*__, Jun. 2020, Seattle (Virtual), WA, USA [[PDF](https://motchallenge.net/workshops/bmtt2020/papers/SRF.pdf)]<br>
 <img src="images/srf.PNG?raw=true" width="100%" height="100%"/>
 
 ---
@@ -59,7 +59,7 @@ Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2019 Workshops*__, 
 ---
 
 ### [C6] Depth-map Estimation Using Combination of Global Deep Network and Local Deep Random Forest
-SangJun Kim, Sangwon Kim\*, Deokwoo Lee, Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA __(Oral\*)__
+SangJun Kim, Sangwon Kim\*, Deokwoo Lee, Byoung Chul Ko, SPIE Electronic Imaging, Jan. 2019, San Francisco, CA, USA __(Oral\*)__
 
 ---
 
