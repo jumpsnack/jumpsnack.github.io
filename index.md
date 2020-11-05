@@ -13,6 +13,7 @@
 ### [C18] Is the Surrogate Model Interpretable?
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*NIPS2020 Workshops*__, Dec. 2020, Vancouver (Virtual), Canada<br>
 <img src="images/nipsw2020.png?raw=true"/>
+
 ---
 
 ### [J7] Simplified Representation of Multi-Layer Random Forest
