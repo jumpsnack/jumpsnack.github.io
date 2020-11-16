@@ -10,6 +10,11 @@
 ## International Publications
 ---
 
+### [C19] KeyReg: Self-Supervised Keypoint Detection Based on Multi-layer Random Forest Regressor
+Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2021, under review*__
+
+---
+
 ### [C18] Is the Surrogate Model Interpretable?
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*NIPS2020 Workshops*__, Dec. 2020, Vancouver (Virtual), Canada<br>
 <img src="images/nipsw2020.png?raw=true"/>
