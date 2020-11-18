@@ -11,7 +11,7 @@
 ---
 
 ### [C19] KeyReg: Self-Supervised Keypoint Detection Based on Multi-layer Random Forest Regressor
-Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*CVPR2021, under review*__
+Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*under review*__
 
 ---
 
