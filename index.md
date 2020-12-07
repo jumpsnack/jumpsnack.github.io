@@ -16,7 +16,7 @@ Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*under review*__
 ---
 
 ### [C18] Is the Surrogate Model Interpretable?
-Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*NIPS2020 Workshops*__, Dec. 2020, Vancouver (Virtual), Canada<br>
+Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*NIPS2020 Workshops*__, Dec. 2020, Vancouver (Virtual), Canada [[SlidesLive](https://slideslive.com/38942856/6-is-the-surrogate-model-interpretable)]<br>
 <img src="images/nipsw2020.png?raw=true"/>
 
 ---
