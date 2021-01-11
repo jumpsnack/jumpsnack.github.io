@@ -11,7 +11,7 @@
 ---
 
 ### [J8] Lightweight Surrogate Random Forest Supporting for Model Simplification and Feature Relevance
-__*Proceedings of the National Academy of Sciences (PNAS), under review* (SCIE/IF=9.412)__
+__*Proceedings of the National Academy of Sciences of the United States of America (PNAS), under review* (SCIE/IF=9.412)__
 
 ---
 
