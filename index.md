@@ -10,6 +10,11 @@
 ## International Publications
 ---
 
+### [J8] Lightweight Surrogate Random Forest Supporting for Model Simplification and Feature Relevance
+__*Proceedings of the National Academy of Sciences (PNAS), under review* (SCIE/IF=9.412)__
+
+---
+
 ### [C19] KeyReg: Self-Supervised Keypoint Detection Based on Multi-layer Random Forest Regressor
 Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*under review*__
 
