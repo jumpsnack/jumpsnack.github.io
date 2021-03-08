@@ -10,24 +10,24 @@
 ## International Publications
 ---
 
-### [J8] Lightweight Surrogate Random Forest Supporting for Model Simplification and Feature Relevance
+### [J9] Lightweight Surrogate Random Forest Supporting for Model Simplification and Feature Relevance
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*Proceedings of the National Academy of Sciences of the United States of America (PNAS), under review* (SCIE/IF=9.412)__
 
 ---
 
-### [C19] KeyReg: Self-Supervised Keypoint Detection Based on Multi-layer Random Forest Regressor
-Sangwon Kim, Mira Jeong, Deokwoo Lee, Byoung Chul Ko, __*under review*__
+### [J8] Simplified Representation of Multi-Layer Random Forest
+Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*ELSEVIER Expert Systems with Applications, under review* (SCIE/IF=5.452)__
+
+---
+
+### [J7] Self-Supervised Keypoint Detection Based on Multi-layer Random Forest Regressor
+Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*IEEE ACCESS, Mar. 2021* (SCIE/IF=3.745)__ [[IEEE xplore]]
 
 ---
 
 ### [C18] Is the Surrogate Model Interpretable?
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*NIPS2020 Workshops*__, Dec. 2020, Vancouver (Virtual), Canada [[SlidesLive](https://slideslive.com/38942856/6-is-the-surrogate-model-interpretable)] [[PDF](https://inductive-biases.github.io/papers/6.pdf)]<br>
 <img src="images/nipsw2020.png?raw=true"/>
-
----
-
-### [J7] Simplified Representation of Multi-Layer Random Forest
-Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*ELSEVIER Expert Systems with Applications, under review* (SCIE/IF=5.452)__
 
 ---
 
