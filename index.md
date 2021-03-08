@@ -23,6 +23,7 @@ Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*ELSEVIER Expert Systems with Applica
 
 ### [J7] Self-Supervised Keypoint Detection Based on Multi-layer Random Forest Regressor
 Sangwon Kim, Mira Jeong, Byoung Chul Ko, __*IEEE ACCESS, Mar. 2021* (SCIE/IF=3.745)__ [[IEEE xplore]]
+<img src="images/keyreg.png?raw=true"/>
 
 ---
 
