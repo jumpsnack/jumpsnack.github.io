@@ -1,4 +1,5 @@
 ## News
+- Our paper has been published to __IEEE Access__, "Self-Supervised Keypoint Detection Based on Multi-layer Random Forest Regressor"
 - Our paper has been accepted to __NIPS2020 Workshops__, "Is the Surrogate Model Interpretable?"
 - Our paper has been published to __IEEE Access__, "Online Multiple Object Tracking Using Rule Distillated Siamese Random Forest"
 - Our paper has been published to __MDPI Sensors__, "Energy Efficient Pupil Tracking Based on Rule Distillation of Cascade Regression Forest"
