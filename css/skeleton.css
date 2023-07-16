@@ -260,14 +260,43 @@ p {
   margin-top: 0;
 }
 
+.pub {
+  font-weight: bold;
+  color: brown;
+}
+
+.j {
+  background-color: brown;
+  color: white;
+  font-family: Arial;
+  font-weight: 700;
+  padding: 0 4px 0 4px;
+  margin-right: 5px;
+}
+.c {
+  background-color: green;
+  color: white;
+  font-family: Arial;
+  font-weight: 700;
+  padding: 0 3px 0 3px;
+  margin-right: 5px;
+}
+
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
+  /* color: #1eaedb; */
+  font-weight: bold;
+  text-decoration-line: none;
+}
+a:link {
+  /* color: #1eaedb; */
   color: #1eaedb;
+  text-decoration-line: none;
 }
-a:hover {
+/* a:hover {
   color: #0fa0ce;
-}
+} */
 
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
