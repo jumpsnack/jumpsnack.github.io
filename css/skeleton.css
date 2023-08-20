@@ -260,28 +260,6 @@ p {
   margin-top: 0;
 }
 
-.pub {
-  font-weight: bold;
-  color: brown;
-}
-
-.j {
-  background-color: brown;
-  color: white;
-  font-family: Arial;
-  font-weight: 700;
-  padding: 0 4px 0 4px;
-  margin-right: 5px;
-}
-.c {
-  background-color: green;
-  color: white;
-  font-family: Arial;
-  font-weight: 700;
-  padding: 0 3px 0 3px;
-  margin-right: 5px;
-}
-
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
@@ -515,7 +493,8 @@ form {
 /* Utilities
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .u-full-width {
-  width: 100%;
+  /* width: 100%; */
+  width: 50%;
   box-sizing: border-box;
 }
 .u-max-full-width {
@@ -550,6 +529,31 @@ hr {
   clear: both;
 }
 
+/* Custom
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.pub {
+  font-weight: bold;
+  color: brown;
+}
+
+.j {
+  background-color: brown;
+  color: white;
+  font-family: Arial;
+  font-weight: 700;
+  padding: 0 4px 0 4px;
+  margin-right: 5px;
+}
+.c {
+  background-color: green;
+  color: white;
+  font-family: Arial;
+  font-weight: 700;
+  padding: 0 3px 0 3px;
+  margin-right: 5px;
+}
+
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
@@ -565,6 +569,10 @@ there.
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
+  .u-full-width {
+    width: 100%;
+    box-sizing: border-box;
+  }
 }
 
 /* Larger than tablet */
