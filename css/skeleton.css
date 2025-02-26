@@ -109,6 +109,13 @@
     width: 65.3333333333%;
   }
 
+  .one-fourth.column {
+    width: 24%;
+  }
+  .three-fourth.column {
+    width: 72%;
+  }
+
   .one-half.column {
     width: 48%;
   }
