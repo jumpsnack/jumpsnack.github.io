@@ -561,6 +561,19 @@ hr {
   margin-right: 5px;
 }
 
+.badge-spotlight {
+  background-color: #f15a22;
+  color: white;
+  font-family: Arial;
+  font-weight: 500;
+  font-size: 0.9em;
+  padding: 0 3px 0 3px;
+  border-radius: 4px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  margin-right: 2px;
+}
+
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
