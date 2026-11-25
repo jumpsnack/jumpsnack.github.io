@@ -1,0 +1,13 @@
+{
+  "name": "DeckCraft",
+  "short_name": "DeckCraft",
+  "start_url": "/deckcraft/index.html",
+  "scope": "/deckcraft/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#262626",
+  "theme_color": "#262626",
+  "icons": [
+    { "src": "./deckcraft-b8fcbb36ecec0385.ico", "sizes": "any", "type": "image/x-icon" }
+  ]
+}
